@@ -1,13 +1,11 @@
 //JAI BREISCH DICE EXPERIMENT NEED HELP
-		//(My friend Dax Allen helped me to get it to roll it as many times as the # of sides) 
+		//(Thanks to My friend Dax Allen @QuiltedGnaves who helped me to get it to roll it as many times as the # of sides) 
 package jaiBreischDiceArrayProj;
-
 
 import java.util.Scanner;
 import java.util.Random;
 
 public class JaiBreischDiceArrayProject {
-
 
 	/*This Program asks the user to choose how many sides they would like their die,
 		then will roll that die the amount of times that there are sides 
